@@ -1,0 +1,5 @@
+Petrov = 150000
+Ivanov = 38000
+Zhmotkin = 19000
+Faziev = 15000
+Arkadyev = 18000
