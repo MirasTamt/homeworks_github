@@ -1,0 +1,121 @@
+
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic);
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #f5f5dc;
+    font-family: 'Roboto', sans-serif;
+}
+
+}
+
+.header {
+    min-width: 1300px;
+    border-bottom: 1px solid #b5b7ba;
+    background-color: #dfdfdf;
+    margin: 0 auto;
+    height: 50px;
+    text-align: center;
+    padding-top: 18px;
+}
+
+
+.btn-cart {
+    min-width: 200px;
+    border-bottom: 1px solid #b5b7ba;
+    background-color: #dfdfdf;
+    margin: 0 auto;
+    height: 50px;
+    text-align: center;
+    padding-top: 5px;
+    font-style: italic;
+    font-family: Gill sans extrabold,sans-serif
+}
+
+
+
+.by-btn {
+    min-width: 50px;
+    border-bottom: 1px solid #b5b7ba;
+    background-color: #dfdfdf;
+    margin: 0 auto;
+    height: 20px;
+    text-align: center;
+    padding-top: 1px;
+    font-style: italic;
+    font-family: Gill sans extrabold,sans-serif
+}
+
+.header .selected {
+    color: #000;
+}
+.content h1 {
+    width: 100%;
+    float: left;
+    text-align: left;
+    color: #241d67;
+    font-size: 40px;
+    font-weight: 250;
+    margin-top: 63px;
+    margin-bottom: 40px;}
+
+.content .box_text p {
+    color: blue;
+    font-size: 24px;
+    font-weight: 100;
+    text-align: left;
+    margin-bottom: 50px;
+}
+
+
+.content .box_text a  {
+    color: #40678a;
+    font-size: 24px;
+    font-weight: 100;
+    text-align: center;
+    padding-right:15px;
+    margin-bottom: 10px;
+}
+
+
+
+.content .products {
+    color: grey;
+    font-size: 20px;
+    font-weight: 300;
+    text-align: left;
+    margin-left: 41px;
+    margin-bottom: 52px;
+}
+
+.content h3 {
+    color: #242424;
+    font-size: 35px;
+    font-weight: 300;
+    text-align: left;
+    margin-left: 5px;
+    margin-bottom: 20px;
+}
+
+
+
+
+.footer { /* # == id */
+    background-color: #434445;
+    width: 100%;
+    float: left;
+    height: 240px;
+    text-align: center;
+    color: #a4a4a4;
+    font-size: 20px;
+    font-weight: 100;
+    line-height: 140px;
+}
+
+.footer a {
+    color: inherit;
+}
